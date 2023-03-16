@@ -7,19 +7,37 @@ section{
 
 section:nth-of-type(1){
     background-image: url(../images/curitiba.jpg);
-    height:600px;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
-section:nth-of-type(3){
+
+section:nth-of-type(2){
     background-image: url(../images/curitiba1.jpg);
     height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
-section:nth-of-type(5){
+section:nth-of-type(3){
     background-image: url(../images/curitiba2.jpg);
     height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
-section:nth-of-type(7){
-    background-image: url(images/curitiba3.jpg);
+section:nth-of-type(4){
+    background-image: url(../images/curitiba3.jpg);
     height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
+
