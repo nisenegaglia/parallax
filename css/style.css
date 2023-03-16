@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+section{
+    width: 100%;
+    height: 300px;
+}
+
+section:nth-of-type(1){
+    background-image: url(../images/curitiba.jpg);
+    height:600px;
+}
+section:nth-of-type(3){
+    background-image: url(../images/curitiba1.jpg);
+    height: 600px;
+}
+
+section:nth-of-type(5){
+    background-image: url(../images/curitiba2.jpg);
+    height: 600px;
+}
+
+section:nth-of-type(7){
+    background-image: url(images/curitiba3.jpg);
+    height: 600px;
+}
